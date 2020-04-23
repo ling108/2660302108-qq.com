@@ -20,7 +20,8 @@ public class Dev {
 
         System.out.println(1);
         System.out.println(2);
-    }
+        System.out.println(3);
+}
 
     private static void changeValue(Student a) {
         a.setName("对对对");
