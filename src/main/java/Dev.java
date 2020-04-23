@@ -16,6 +16,9 @@ public class Dev {
         String kk = "dssd";
         changeStringValue(kk);
         System.out.println(kk);
+
+
+        System.out.println(1);
     }
 
     private static void changeValue(Student a) {
