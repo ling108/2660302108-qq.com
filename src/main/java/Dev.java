@@ -19,6 +19,7 @@ public class Dev {
 
 
         System.out.println(1);
+        System.out.println(2);
     }
 
     private static void changeValue(Student a) {
